@@ -1,0 +1,497 @@
+
+        .Header{
+            width: 1200px;
+            height: 480px;
+            text-align:center;
+            line-height:50px;
+            font-size:25px;
+            color:#EA7500	;
+            /*font-weight:bold;*/
+            background-color:#FFEE99;
+            left: 1000px;
+            border-radius: 10px;
+            font-family:微軟正黑體 ;
+            border-width:3px;
+            border-style:dashed;
+            border-color:#FFAC55;
+            padding:5px;
+            
+        }
+        .life1{
+            top: 100px;
+            width: 255px;
+            height: 400px;
+            text-align:center;
+            line-height:50px;
+            font-size:25px;
+            color:#322e66	;
+            /*font-weight:bold;*/
+            background-color:#dae6f7;
+            left: 1000px;
+            border-radius: 10px;
+            font-family:微軟正黑體 ;
+            border-width:2px;
+            border-style:inset;
+            border-color:#5aaadb;
+            padding:5px;
+
+            
+        }
+        .life5{
+            
+            width: 250px;
+            height: 400px;
+            text-align:center;
+            line-height:30px;
+            font-size:20px;
+            color:#322e66	;
+            /*font-weight:bold;*/
+           
+            left: 1000px;
+            border-radius: 10px;
+            font-family:微軟正黑體 ;
+           text-align: left;
+           
+
+            
+        }
+        .life2{
+            top: 100px;
+            width: 250px;
+            height: 300px;
+            text-align:center;
+            line-height:50px;
+            font-size:25px;
+            color:#e98a24	;
+            /*font-weight:bold;*/
+            background-color:#f5ecce;
+            left: 1000px;
+            border-radius: 10px;
+            font-family:微軟正黑體 ;
+            border-width:2px;
+            border-style:inset;
+            border-color:#f3c034;
+            padding:5px;
+            
+            
+        }
+        .life8{
+            top: 100px;
+            width: 250px;
+            height: 250px;
+            text-align:center;
+            line-height:50px;
+            font-size:20px;
+            color:#e98a24	;
+            /*font-weight:bold;*/
+            left: 1000px;
+            border-radius: 10px;
+            font-family:微軟正黑體 ;
+           text-align: left;
+            
+            
+        }
+        .life3{
+            top: 100px;
+            width: 250px;
+            height: 250px;
+            text-align:center;
+            line-height:50px;
+            font-size:25px;
+            color:#dd0471	;
+            /*font-weight:bold;*/
+            background-color:#f5cee5;
+            left: 1000px;
+            border-radius: 10px;
+            font-family:微軟正黑體 ;
+            border-width:2px;
+            border-style:inset;
+            border-color:#e7357f;
+            padding:5px;
+            
+            
+        }
+        .life6{
+            
+            text-align:center;
+            line-height:50px;
+            font-size:20px;
+            color:#dd0471	;
+            /*font-weight:bold;*/
+            
+            left: 1000px;
+            border-radius: 10px;
+            font-family:微軟正黑體 ;
+            border-width:3px;
+            text-align: left;
+        }
+        .life4{
+            top: 100px;
+            width: 250px;
+            height: 400px;
+            text-align:center;
+            line-height:50px;
+            font-size:25px;
+            color:#006030	;
+            /*font-weight:bold;*/
+            background-color:#F0FFF0;
+            left: 1000px;
+            border-radius: 10px;
+            font-family:微軟正黑體 ;
+            border-width:2px;
+            border-style:inset;
+            border-color:#84b485;
+            padding:5px;
+            
+            
+        }
+        .life7{
+           
+            
+            text-align:center;
+            line-height:20px;
+            font-size:20px;
+            color:#006030	;
+            /*font-weight:bold;*/
+            
+            left: 1000px;
+            border-radius: 10px;
+            font-family:微軟正黑體 ;
+            text-align: left;
+            border-width:3px;
+            
+            
+        }
+        .life9{
+            position: absolute;
+            top: 1280px;
+            left: 1155px;
+            
+            
+        }
+        .life10{
+            position: absolute;
+            top: 1330px;
+            left:685px;
+            
+            
+        }
+        .life11{
+            position: absolute;
+            top:790px;
+            left:700px;
+            
+            
+        }
+
+        div{
+            display: block;
+        }
+        table {
+            border-collapse: separate;
+            text-indent: initial;
+            border-spacing: 2px;
+            -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+        }
+        .Sidebar{
+            width:600px;
+            float:left;
+            height:1000px;
+            /*text-align:center;*/
+            /*line-height:280px;*/
+            font-size:20px;
+            color:#ffffff;
+            font-weight:bold;
+            background-color:#ffffff;
+            left: 1000px;
+        }
+        .body{
+            width:800px;
+            height:1000px;
+            /*text-align:center;*/
+            line-height:280px;
+            font-size:20px;
+            color:#f9c81e;
+            font-weight:bold;
+            background-color:#ffffff;
+            float:left;
+            left: 1000px;
+        }
+        .Footer{
+            width:1200px;
+            height:150px;
+            /*text-align:center;*/
+            line-height:40px;
+            font-size:20px;
+            color:#FFAA33;
+            font-weight:bold;
+            background-color: #FFEE99;
+            left: 1000px;
+            border-radius: 10px;
+            border-width:3px;
+            border-style:dashed;
+            border-color:#FFAC55;
+            padding:5px;
+            text-align:center;
+        }
+        .centerdiv{
+	        /*float: left;*/
+	        width:1px;
+	        border-right: 1px solid #FFAA33;
+            height: 1000px;
+        }
+        .order {
+            height: 500px;
+            line-height: 60px;
+            text-align: center;
+            
+        }
+        .order .line {
+            display: inline-block;
+            width: 170px;
+            border-top: 1px solid #FFEE99;
+        }
+        .order .txt {
+            color:  #FFAA33;
+            vertical-align: middle;
+            font-size:20px;
+            font-weight:bold;
+            
+        }
+        .circle {
+	        
+	        border-radius: 20px;
+	        box-shadow: 0 0 10px rgba(0,0,0,1.00);
+            /*filter: brightness(.5);*/
+        }
+        .box{
+            position: absolute;
+            left: 100px;
+        }
+        .box1{
+            position: absolute;
+            left: 250px;
+        }
+        .box2{
+            position: absolute;
+            left: 400px;
+        }
+        .box3{
+            position: absolute;
+            left: 100px;
+            top: 800px;
+        }
+        .box4{
+            position: absolute;
+            left: 250px;
+            
+            top: 800px;
+        }
+        .box5{
+            position: absolute;
+            left: 400px;
+            
+            top: 800px;
+        }
+        
+        .content {
+            top: 10px;
+            left: 10px;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            position: absolute;
+            background:white;
+            z-index: 9;
+        }
+       
+        
+        .lab1{
+            position: absolute;
+            left: 100px;
+            top: 710px;
+            color:#fa407e	;
+        }
+        .lab2{
+            position: absolute;
+            left: 270px;
+            top: 710px;
+            color:#EA7500	;
+        }
+        .lab3{
+            position: absolute;
+            left: 420px;
+            top: 710px;
+            color:#e4ca09	;
+        }
+        .lab4{
+            position: absolute;
+            left: 130px;
+            top: 925px;
+            color:#67a9d8	;
+        }
+        .lab5{
+            position: absolute;
+            left: 290px;
+            top: 925px;
+            color:#a86ac5	;
+        }
+        .lab6{
+            position: absolute;
+            left: 470px;
+            top: 925px;
+            color:#EA7500	;
+        }
+        .year1{
+            top: 10px;
+            left: 1000px;
+        }
+        .lab7{
+            position: absolute;
+            left: 100px;
+            top: 1120px;
+            width: 1000px;
+            
+        }
+        p{
+            border: 1px solid red;
+            height: 0px;
+           /* display: none; */
+           overflow: hidden;
+        
+        }
+        input:checked~p{
+            /* display: block; */
+            overflow: visible;
+        }
+        /*.pi1{
+            position: absolute;
+            left: 130px;
+        }
+        .pi2{
+            position: absolute;
+            left: 500px;
+        }
+        .pi3{
+            position: absolute;
+            left: 500px;
+        }*/
+
+
+
+
+
+
+       
+
+        
+
+        .progress { 
+            height: 50px; 
+            border-left: 1px solid transparent; 
+            border-right: 1px solid transparent; 
+            border-radius: 10px;
+            
+            
+        }
+        .progress > span { 
+            position: absolute;
+            
+            float: left; 
+            margin: 0 -1px; 
+            min-width: 30px; 
+            height: 18px; 
+            line-height: 16px; 
+            text-align: right; 
+            
+            border: 1px solid; 
+            display: inline-block;
+            -webkit-animation: load 10s ease-in;
+            border-radius: 10px; 
+            
+            -webkit-box-shadow: inset 0 1px rgba(255, 255, 255, 0.3), 0 1px 2px rgba(0, 0, 0, 0.2); 
+            box-shadow: inset 0 1px rgba(255, 255, 255, 0.3), 0 1px 2px rgba(0, 0, 0, 0.2);}
+        .progress > span > span {
+             padding: 0 8px; 
+             font-size: 11px;
+              font-weight: bold; 
+              color: #404040; 
+              color: rgba(0, 0, 0, 0.7); 
+              text-shadow: 0 1px rgba(255, 255, 255, 0.4);
+              display: inline-block;
+              -webkit-animation: load 10s ease-in;}
+        .progress > span:before { 
+            content: ''; 
+            position: absolute; 
+            top: 0; 
+            bottom: 0; 
+            left: 0;
+            right: 0;
+            z-index: 1; 
+            height: 18px; 
+            background: url("../img/progress.png") 0 0 repeat-x; 
+            border-radius: 10px;
+            display: inline-block;
+            -webkit-animation: load 10s ease-in;}
+        .progress .green { 
+            background: #85c440; 
+            border-color: #78b337 #6ba031 #568128; 
+            background-image: -webkit-linear-gradient(top, #b7dc8e 0%, #99ce5f 70%, #85c440 100%); 
+           
+            }
+        .progress .red { background: #db3a27; border-color: #c73321 #b12d1e #8e2418; 
+            background-image: -webkit-linear-gradient(top, #ea8a7e 0%, #e15a4a 70%, #db3a27 100%);
+        }
+        .progress .orange { background: #f2b63c; border-color: #f0ad24 #eba310 #c5880d; 
+            background-image: -webkit-linear-gradient(top, #f8da9c 0%, #f5c462 70%, #f2b63c 100%); 
+            }
+        .progress .blue { background: #5aaadb; border-color: #459fd6 #3094d2 #277db2; 
+            background-image: -webkit-linear-gradient(top, #aed5ed 0%, #7bbbe2 70%, #5aaadb 100%); 
+            }
+            /*#progress {
+                width: 60%;
+                height: 30px;
+                border: 1px solid #ccc;
+                border-radius: 15px;
+                margin: 50px 0 0 100px;
+                overflow: hidden;
+                box-shadow: 0 0 5px 0px #ddd inset;
+              }
+            
+              #progress span {
+                display: inline-block;
+                width: 10%;
+                height: 100%;
+                background: #2989d8;
+                text-align: center;
+                color: #fff;
+                -webkit-animation: load 3s ease-in;
+              }*/
+            
+              @-webkit-keyframes load {
+                0% {
+                  width: 0%;
+                }
+                
+            
+                100% {
+                  
+                }
+              }
+
+
+
+
+
+
+
+
+        
+
+
+
+
+        
+
+        
